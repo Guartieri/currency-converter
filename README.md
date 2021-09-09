@@ -1,7 +1,7 @@
 # Currency Converter
 
 
-<img src="./assets/screen.png" alt="currency-converter-image"
+<img src="./assets/Screen.png" alt="currency-converter-image"
 width="400px">
 
 >This project aimed to create a currency converter as an example for using HTML, CSS and JavaScript together.
@@ -11,16 +11,16 @@ width="400px">
 The project had a great progress, but improvements can still be implemented in the file, such as:
 
 - [x] Add automatic change to currency image
-- [] Stylize button animation
-- [] Best fit background color
-- [] Add some currency options
+- [ ] Stylize button animation
+- [ ] Best fit background color
+- [ ] Add some currency options
 
 
 ### 💻 Technologies used
 In this project, parameters were extracted from Figma, and used HTML, CSS and JavaScript, namely: <br>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code><b>44%</b> <br>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code><b>56%</b> <br>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code> <b></b>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code><b>36,5%</b> <br>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code><b>37,7%</b> <br>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code> <b>28,8%</b>
 
 
 ### 🤝 Contributors
